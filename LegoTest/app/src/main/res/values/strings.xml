@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LegoTest</string>
+    <string name="text">Text</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="JoyBackDescr">analogimage</string>
+    <string name="title_activity_popwindows">popwindows</string>
+    <string name="bloatstring">answeransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweransweranswer</string>
+    <string name="placeHolderQuestion">Question X</string>
+    <string name="placeHolderProblem">Problem X</string>
+    <string name="closeDescription">Close</string>
+</resources>
